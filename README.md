@@ -2,15 +2,19 @@
 
 Welcome to my GitHub profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=maaz-319&color=brightgreen)
+
+![Welcome Animation](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ## About Me
-I'm a passionate Student specializing in Python and front-end technologies. I enjoy creating intuitive and dynamic user interfaces with a focus on Python GUIs. Here’s a bit more about what I do:
+I'm a passionate developer specializing in Python and front-end technologies. I enjoy creating intuitive and dynamic user interfaces with a focus on Python GUIs. Here’s a bit more about what I do:
 
 - 🌱 I’m currently learning advanced concepts in web development.
 - 💬 Ask me about Python, Tkinter, Pygame, and front-end basics.
-- 📫 How to reach me: [maazbinaasif123@outlook.com].
+- 📫 How to reach me: [maazbinaasif123@outlook.com](mailto:maazbinaasif123@outlook.com)
 - ⚡ Fun fact: I love integrating creative designs into functional GUIs!
+
+![Coding Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ## Skills
 
@@ -35,12 +39,16 @@ I'm a passionate Student specializing in Python and front-end technologies. I en
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## Projects
-- [**Tkinter Student Record System**](https://github.com/Maaz-319/Python/tree/main/Student%20Record%20System) - A simple and elegant Student Record System application built with Tkinter.
-- [**Pygame Platformer**](https://github.com/Maaz-319/Python/tree/main/PyGame) - A fun platformer game created using Pygame.
-- [**Responsive Web Design**](https://maaz-319.github.io/Web) - A basic responsive website using HTML, CSS, and JavaScript with jQuery.
+- [**Tkinter To-Do App**](https://github.com/maaz-319/tkinter-todo-app) - A simple and elegant to-do list application built with Tkinter.
+- [**Pygame Platformer**](https://github.com/maaz-319/pygame-platformer) - A fun platformer game created using Pygame.
+- [**Responsive Web Design**](https://github.com/maaz-319/responsive-web-design) - A basic responsive website using HTML, CSS, and JavaScript with jQuery.
+- [**Basic Android App**](https://github.com/maaz-319/basic-android-app) - A basic Android app built with Kotlin and Android Studio.
+
+![Projects Animation](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
 ## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazbinaasif123@outlook.com)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maaz-319&show_icons=true&theme=radical)
-
