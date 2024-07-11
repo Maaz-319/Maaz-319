@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Jquery, JavaScript, Css**
 
-- 👨‍💻 All of my projects are available at [github.com](github.com)
+- 👨‍💻 All of my projects are available at [github](github.com/maaz-319)
 
 - 💬 Ask me about **Python, Tkinter, Pygame, GUIs, Basic Web.**
 
-- 📫 How to reach me **myemail@gmail.com**
+- 📫 How to reach me **maazbinaasif123@outlook.com**
 
 - ⚡ Fun fact **I love integrating creative designs into functional GUIs!**
 
@@ -43,4 +43,4 @@ lopment.<br>💬 Ask me about Python, Tkinter, Pygame, and front-end basics.<br>
 ![](https://github-contributor-stats.vercel.app/api?username=Maaz-319&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Maaz-319&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dasdsa&icon=2&color=0)](https://visitcount.itsvg.in)
