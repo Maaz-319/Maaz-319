@@ -22,15 +22,6 @@
 - [**Pygame Platformer**](https://github.com/Maaz-319/Python/tree/main/PyGame) - A fun platformer game created using pygame.
 - [**Web Design**](https://maaz-319.github.io/Web) - A basic responsive website using HTML, CSS, and JavaScript with jQuery.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourprofile" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="yourprofile" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
