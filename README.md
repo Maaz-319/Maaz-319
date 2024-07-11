@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning advanced concepts in web deve<h1 align="center">Hi 👋, I'm Maaz</h1>
+🌱 I’m currently learning advanced concepts in Web<h1 align="center">Hi 👋, I'm Maaz</h1>
 <h3 align="center">A dedicated student who consistently strives to excel and is eager to learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Maaz-319&label=Profile%20views&color=0e75b6&style=flat" alt="Maaz-319" /> </p>
