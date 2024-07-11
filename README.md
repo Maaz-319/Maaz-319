@@ -2,7 +2,7 @@
 <h3 align="center">A dedicated student who consistently strives to excel and is eager to learn.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maaz-319&label=Profile%20views&color=0e75b6&style=flat" alt="Maaz-319" />
+  <img src="https://visitcount.itsvg.in/api?id=Maaz-319&icon=2&color=0" alt="visit count" />
 </p>
 
 <p align="center">
@@ -59,8 +59,4 @@
 <h3 align="center">🔝 Top Contributed Repo:</h3>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Maaz-319&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Maaz-319" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Maaz-319&icon=2&color=0" alt="visit count" />
 </p>
