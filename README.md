@@ -36,7 +36,7 @@ I'm a passionate Student specializing in Python and front-end technologies. I en
 
 ## Projects
 - [**Tkinter Student Record System**](https://github.com/Maaz-319/Python/tree/main/Student%20Record%20System) - A simple and elegant Student Record System application built with Tkinter.
-- [**Pygame Platformer**]([https://github.com/maaz-319/pygame-platformer](https://github.com/Maaz-319/Python/tree/main/PyGame)) - A fun platformer game created using Pygame.
+- [**Pygame Platformer**](https://github.com/Maaz-319/Python/tree/main/PyGame) - A fun platformer game created using Pygame.
 - [**Responsive Web Design**](https://maaz-319.github.io/Web) - A basic responsive website using HTML, CSS, and JavaScript with jQuery.
 
 ## Connect with Me
