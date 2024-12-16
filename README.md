@@ -21,9 +21,9 @@ I am a dedicated student who consistently strives to excel and is eager to learn
 
 ### frameworks, libraries and database:
 
-| Pandas | Jquery | SQLite |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+| Pandas | Jquery | SQLite | SKLearn
+|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="SKLearn" alt="SKLearn" width="55" height="55"/>|
 
 
 
