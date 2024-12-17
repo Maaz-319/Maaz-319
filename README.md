@@ -6,7 +6,7 @@ I am a dedicated student who consistently strives to excel and is eager to learn
 
 ### Working on: 🚀
 
-- Learning [Web](https://maaz-319.github.io/Web)
+- Learning [Web](https://maaz.me/)
 
 
 ## Languages and Tools 
