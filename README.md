@@ -53,7 +53,7 @@
 
 ---
 
-## 📫 Connect with Me
+<!-- ## 📫 Connect with Me
 
 <div align="center">
   <a href="https://maaz.me/" target="_blank">
@@ -62,12 +62,38 @@
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-00ffaa?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</div> -->
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://maaz.me/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" width="40" alt="Portfolio"/>
+  </a>
+  <a href="https://maaz.me/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webflow" width="40" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maaz-319" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Maaz-319" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/your-facebook" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="40" alt="Facebook"/>
+  </a>
+</p>
+
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Maaz-319/Maaz-319/output/github-snake.svg" alt="Snake animation"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
