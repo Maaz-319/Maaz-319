@@ -66,7 +66,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://maaz.me/" target="_blank">
+  <a href="https://portfolio.maaz.me/" target="_blank">
     <img src="https://skillicons.dev/icons?i=wordpress" width="40" alt="Portfolio"/>
   </a>
   <a href="https://maaz.me/" target="_blank">
@@ -78,13 +78,13 @@
   <a href="https://github.com/Maaz-319" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:maazbinaasif123@outlook.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
+  <a href="https://instagram.com/maaz.binasif" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
   </a>
-  <a href="https://facebook.com/your-facebook" target="_blank">
+  <a href="https://facebook.com/maaz.binaasif" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" width="40" alt="Facebook"/>
   </a>
 </p>
