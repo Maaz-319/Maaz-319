@@ -67,12 +67,12 @@
 
 <p align="center">
   <a href="https://portfolio.maaz.me/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=wordpress" width="40" alt="Portfolio"/>
+    <img src="https://skillicons.dev/icons?i=globe" width="40" alt="Portfolio"/>
   </a>
   <a href="https://maaz.me/" target="_blank">
     <img src="https://skillicons.dev/icons?i=webflow" width="40" alt="Website"/>
   </a>
-  <a href="https://www.linkedin.com/in/maaz-319" target="_blank">
+  <a href="https://www.linkedin.com/in/maazbinasif" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Maaz-319" target="_blank">
