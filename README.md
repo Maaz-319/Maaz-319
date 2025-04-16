@@ -68,6 +68,6 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Maaz-319/Maaz-319/output/github-snake.svg" alt="Snake animation"/>
-</div>
+</p>
