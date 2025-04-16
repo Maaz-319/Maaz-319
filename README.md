@@ -23,7 +23,7 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode,reactnative&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode,react,mysql,sublime,github,pycharm,tailwind&perline=8" />
 </div>
 
 ---
