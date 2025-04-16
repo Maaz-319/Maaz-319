@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://portfolio.maaz.me/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=globe" width="40" alt="Portfolio"/>
+    <img src="https://skillicons.dev/icons?i=htmx" width="40" alt="Portfolio"/>
   </a>
   <a href="https://maaz.me/" target="_blank">
     <img src="https://skillicons.dev/icons?i=webflow" width="40" alt="Website"/>
