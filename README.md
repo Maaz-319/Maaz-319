@@ -38,9 +38,8 @@ I am a dedicated student who consistently strives to excel and is eager to learn
 ---
 
   
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Maaz-319&theme=highcontrast&hide_border=true&border_radius=5">
-</p>
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=Maaz-319&theme=highcontrast&hide_border=true&border_radius=5">
+
 
 
 
