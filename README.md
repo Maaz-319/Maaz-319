@@ -1,64 +1,69 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maaz-319&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-### About Me:    
-I am a dedicated student who consistently strives to excel and is eager to learn. I love making GUIs Apps in Python.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hi+I'm+Maaz+👋;CS+Student+%7C+Python+%7C+Kotlin+%7C+Web+Dev+%7C+AI+Enthusiast;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
+</div>
 
-
-### Working on: 🚀
-
-- Learning [Web](https://maaz.me/)
-
-
-## Languages and Tools 
-<div>
-
-### Languages:
-| Python3 | C | C++ | Js | HTML | Css | Kotlin |
-|----------|----------|----------|-----|-----|-----|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="55" height="55"/>| 
-
-  
-
-### frameworks, libraries and database:
-
-| Pandas | Jquery | SQLite | SKLearn
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="SKLearn" alt="SKLearn" width="55" height="55"/>|
-
-
-
-### Tools:
-
-| PyCharm | VSCode | Android Studio | Git |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> |
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maaz-319&style=for-the-badge&color=00FFAA" alt="Profile Views"/>
 </div>
 
 ---
 
-  
-<img width="800" height="220" src="https://streak-stats.demolab.com?user=Maaz-319&theme=highcontrast&hide_border=true&border_radius=5">
+## ✨ About Me
 
-
-
+🎓 A passionate CS student who loves creating apps and learning new tech.  
+🖥️ I build clean UIs, work with AI, and explore game + app development.  
+📈 Continuously growing by exploring new libraries, languages and frameworks.
 
 ---
 
+## 🚀 Tech Stack
 
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Maaz-319&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-319&layout=compact&theme=vision-friendly-dark">
-</p>
- 
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maaz-319&style=for-the-badge&color=orange" alt=""/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode&perline=8" />
 </div>
 
-<p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
-</p>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maaz-319&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-319&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaz-319&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/>
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maaz-319&theme=tokyonight&no-frame=true&margin-w=10&column=7&rank=SSS,SS,S,AAA,AA,A" />
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="https://maaz.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00ffaa?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-00ffaa?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Maaz-319/Maaz-319/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
