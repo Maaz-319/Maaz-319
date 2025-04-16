@@ -10,16 +10,20 @@
 
 ## ✨ About Me
 
+<div align="center" style="max-width: 800px; padding: 0 20px;">
+
 🎓 A passionate CS student who loves creating apps and learning new tech.  
 🖥️ I build clean UIs, work with AI, and explore game + app development.  
 📈 Continuously growing by exploring new libraries, languages and frameworks.
+
+</div>
 
 ---
 
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode,reactnative&perline=8" />
 </div>
 
 ---
@@ -65,5 +69,5 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Maaz-319/Maaz-319/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Maaz-319/Maaz-319/output/github-snake.svg" alt="Snake animation"/>
 </div>
