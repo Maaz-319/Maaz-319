@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hi+I'm+Maaz+👋;CS+Student+%7C+Python+%7C+Kotlin+%7C+Web+Dev+%7C+AI+Enthusiast;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hi+I'm+Maaz+👋;Python+%7C+Kotlin+%7C+Web+Dev+%7C+AI+Enthusiast;Welcome+to+my+GitHub+Universe!" alt="Maaz Bin Asif" />
 </div>
 
 <div align="center">
@@ -29,13 +29,11 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maaz-319&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-319&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
-</div>
-
----
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Maaz-319&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Maaz-319&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-319&layout=compact&theme=vision-friendly-dark">
+</p>
 
 ## 📈 GitHub Activity Graph
 
@@ -43,13 +41,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaz-319&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/>
 </div>
 
----
 
 ## 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maaz-319&theme=tokyonight&no-frame=true&margin-w=10&column=7&rank=SSS,SS,S,AAA,AA,A" />
-</div>
+<p align="center">
+  <img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=onedark">
+</p>
 
 ---
 
