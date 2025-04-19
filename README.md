@@ -60,32 +60,7 @@
     <img src="https://img.shields.io/badge/Email-00ffaa?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div> -->
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://portfolio.maaz.me/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=htmx" width="40" alt="Portfolio"/>
-  </a>
-  <a href="https://maaz.me/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=webflow" width="40" alt="Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/maazbinasif" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Maaz-319" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
-  </a>
-  <a href="mailto:maazbinaasif123@outlook.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/maaz.binasif" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
-  </a>
-  <a href="https://facebook.com/maaz.binaasif" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" alt="Facebook"/>
-  </a>
-</p>
-
+<div align="center" style="margin-top: 20px;"> <a href="https://portfolio.maaz.me/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-36725a?style=for-the-badge&logo=htmx&logoColor=white" /> </a> <a href="https://maaz.me/" target="_blank"> <img src="https://img.shields.io/badge/Website-36725a?style=for-the-badge&logo=webflow&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/maazbinasif" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-36725a?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Maaz-319" target="_blank"> <img src="https://img.shields.io/badge/GitHub-36725a?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:maazbinaasif123@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/Email-36725a?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://instagram.com/maaz.binasif" target="_blank"> <img src="https://img.shields.io/badge/Instagram-36725a?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://facebook.com/maaz.binaasif" target="_blank"> <img src="https://img.shields.io/badge/Facebook-36725a?style=for-the-badge&logo=facebook&logoColor=white" /> </a> </div>
 
 ---
 
