@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Hi+I'm+Maaz+👋;Python+%7C+Kotlin+%7C+Web+Dev+%7C+AI+Enthusiast;Welcome+to+my+GitHub+Universe!" alt="Maaz Bin Asif" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=😁+Hi+I'm+Maaz+👋;Python+%7C+Kotlin+%7C+Web+Dev+%7C+AI+Enthusiast;Welcome+to+my+GitHub+Universe!" alt="Maaz Bin Asif" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maaz-319&style=for-the-badge&color=00FFAA" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Maaz-319&style=for-the-badge&color=36725a" alt="Profile Views"/>
 </div>
 
 ---
@@ -12,9 +12,7 @@
 
 <div align="center" style="max-width: 800px; padding: 0 20px;">
 
-🎓 A passionate CS student who loves creating apps and learning new tech.  
-🖥️ I build clean UIs, work with AI, and explore game + app development.  
-📈 Continuously growing by exploring new libraries, languages and frameworks.
+🎓 CS Student who loves making New Programs, Exploring New Tech, ML, Deep Learning and Cyber Security 😄
 
 </div>
 
@@ -30,10 +28,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Maaz-319&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Maaz-319&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-319&layout=compact&theme=vision-friendly-dark">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Maaz-319&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
+---
 
 ## 📈 GitHub Activity Graph
 
@@ -94,3 +94,12 @@
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
+
+---
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&width=600&lines=😁+Thanks+for+Stopping+by!;💡+Stay+tuned+for+more!;🚀+Keep+coding,+happy+hacking!" 
+    alt="Thanks for stopping by!" 
+  />
+</div>
