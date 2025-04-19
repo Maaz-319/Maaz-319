@@ -73,8 +73,9 @@
 ---
 
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&width=600&lines=😁+Thanks+for+Stopping+by!;💡+Stay+tuned+for+more!;🚀+Keep+coding,+happy+hacking!" 
-    alt="Thanks for stopping by!" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=150&section=footer"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by+🌌;See+you+in+the+next+project+🚀;Happy+Coding+👨‍💻" />
 </div>
