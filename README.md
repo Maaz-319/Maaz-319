@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=😁+Hi+I'm+Maaz+👋;Python+%7C+Kotlin+%7C+Web+Dev+%7C+AI+Enthusiast;Welcome+to+my+GitHub+Universe!" alt="Maaz Bin Asif" />
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=😁+Hi+I'm+Maaz+👋;Python+%7C+Kotlin+%7C+Web+Dev+%7C+AI+Enthusiast;Welcome+to+my+GitHub+Universe!" alt="Maaz Bin Asif" /></a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maaz-319&style=for-the-badge&color=36725a" alt="Profile Views"/>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=Maaz-319&style=for-the-badge&color=36725a" alt="Profile Views"/></a>
 </div>
 
 ---
@@ -21,16 +21,18 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode,react,mysql,sublime,github,pycharm,tailwind&perline=8" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode,react,mysql,sublime,github,pycharm,tailwind&perline=8" /></a>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
+  <a href="#">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Maaz-319&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-319&layout=compact&theme=vision-friendly-dark">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Maaz-319&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  </a>
 </p>
 
 ---
@@ -38,14 +40,14 @@
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaz-319&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/>
+  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaz-319&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/></a>
 </div>
 
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=onedark">
+  <a href="#"><img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=onedark"></a>
 </p>
 
 ---
@@ -67,15 +69,14 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
+ <a href="#"><img width="1000" src="github-snake.svg" alt="snake"/></a>
 </p>
 
 ---
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=150&section=footer"/>
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=150&section=footer"/></a>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by+🌌;See+you+in+the+next+project+🚀;Happy+Coding+👨‍💻" />
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by+🌌;See+you+in+the+next+project+🚀;Happy+Coding+👨‍💻" /></a>
 </div>
