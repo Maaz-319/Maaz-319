@@ -31,8 +31,6 @@
   <a href="#">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Maaz-319&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-319&layout=compact&theme=vision-friendly-dark">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Maaz-319&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-  </a>
 </p>
 
 ---
