@@ -64,8 +64,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
  <a href="#"><img width="1000" src="github-snake.svg" alt="snake"/></a>
 </p>
