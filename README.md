@@ -12,13 +12,13 @@
 
 <div align="center" style="max-width: 800px; padding: 0 20px;">
 
-🎓 CS Student who loves making New Programs, Exploring New Tech, ML, Deep Learning and Cyber Security 😄
+CS Student who loves making New Programs, Exploring New Tech, ML, Deep Learning and Cyber Security 😄
 
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode,react,mysql,sublime,github,pycharm,tailwind&perline=8" /></a>
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <a href="#">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Maaz-319&show_icons=true&theme=vision-friendly-dark">
@@ -35,14 +35,14 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## GitHub Activity Graph
 
 <div align="center">
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaz-319&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/></a>
 </div>
 
 
-## 🏆 Trophies
+## Trophies
 
 <p align="center">
   <a href="#"><img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=onedark"></a>
@@ -74,5 +74,5 @@
 </div>
 
 <div align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by+🌌;See+you+in+the+next+project+🚀;Happy+Coding+👨‍💻" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by+🌌;See+you+in+the+next+project+🙂;Happy+Coding+😎" /></a>
 </div>
