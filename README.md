@@ -21,7 +21,7 @@ CS Student who loves making New Programs, Exploring New Tech, ML, Deep Learning 
 ## Tech Stack
 
 <div align="center">
-  <div align="center"><img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode,react,mysql,sublime,github,pycharm,tailwind&perline=8" /></div>
+  <div align="center"><img src="[https://skillicons.dev/icons?i=python,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode,react,mysql,sublime,github,pycharm,tailwind&perline=8](https://skillicons.dev/icons?i=python,tensorflow,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode,react,mysql,sublime,github,linux,pycharm,tailwind,ubuntu&perline=8)" /></div>
 </div>
 
 ---
