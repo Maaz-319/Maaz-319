@@ -45,8 +45,7 @@ CS Student who loves making New Programs, Exploring New Tech, ML, Deep Learning 
 ## Trophies
 
 <p align="center">
-  <a href="#"><img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=monakai&no-frame=true&column=3&margin-w=15&margin-h=15
-"></a>
+  <a href="#"><img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=monakai&no-frame=true"></a>
 </p>
 
 ---
