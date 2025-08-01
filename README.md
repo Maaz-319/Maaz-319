@@ -28,9 +28,10 @@ CS Student who loves making New Programs, Exploring New Tech, ML, Deep Learning 
 
 ## GitHub Stats
 <p align="center">
-  <a href="#">
+  <div>
 <!--   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Maaz-319&show_icons=true&theme=vision-friendly-dark"> -->
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-319&layout=compact&theme=vision-friendly-dark">
+  </div>
 </p>
 
 ---
@@ -38,14 +39,14 @@ CS Student who loves making New Programs, Exploring New Tech, ML, Deep Learning 
 ## GitHub Activity Graph
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaz-319&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/></a>
+  <div><img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaz-319&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/></div>
 </div>
 
 
 ## Trophies
 
 <p align="center">
-  <a href="#"><img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=aura&no-frame=true"></a>
+  <div><img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=aura&no-frame=true"></div>
 </p>
 
 ---
@@ -65,14 +66,14 @@ CS Student who loves making New Programs, Exploring New Tech, ML, Deep Learning 
 ---
 
 <p align="center">
- <a href="#"><img width="1000" src="github-snake.svg" alt="snake"/></a>
+ <div><img width="1000" src="github-snake.svg" alt="snake"/></div>
 </p>
 
 ---
 <div align="center">
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=150&section=footer"/></a>
+<div><img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=150&section=footer"/></div>
 </div>
 
 <div align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by+🌌;See+you+in+the+next+project+🙂;Happy+Coding+😎" /></a>
+  <div><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by+🌌;See+you+in+the+next+project+🙂;Happy+Coding+😎" /></div>
 </div>
