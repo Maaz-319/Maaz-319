@@ -21,14 +21,14 @@ CS Student who loves making New Programs, Exploring New Tech, ML, Deep Learning 
 ## Tech Stack
 
 <div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode,react,mysql,sublime,github,pycharm,tailwind&perline=8" /></a>
+  <div align="center"><img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode,react,mysql,sublime,github,pycharm,tailwind&perline=8" /></div>
 </div>
 
 ---
 
 ## GitHub Stats
 <p align="center">
-  <div>
+  <div align="center">
 <!--   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Maaz-319&show_icons=true&theme=vision-friendly-dark"> -->
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-319&layout=compact&theme=vision-friendly-dark">
   </div>
@@ -39,14 +39,14 @@ CS Student who loves making New Programs, Exploring New Tech, ML, Deep Learning 
 ## GitHub Activity Graph
 
 <div align="center">
-  <div><img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaz-319&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/></div>
+  <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaz-319&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/></div>
 </div>
 
 
 ## Trophies
 
 <p align="center">
-  <div><img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=aura&no-frame=true"></div>
+  <div align="center"><img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=aura&no-frame=true"></div>
 </p>
 
 ---
@@ -66,14 +66,14 @@ CS Student who loves making New Programs, Exploring New Tech, ML, Deep Learning 
 ---
 
 <p align="center">
- <div><img width="1000" src="github-snake.svg" alt="snake"/></div>
+ <div align="center"><img width="1000" src="github-snake.svg" alt="snake"/></div>
 </p>
 
 ---
 <div align="center">
-<div><img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=150&section=footer"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=150&section=footer"/></div>
 </div>
 
 <div align="center">
-  <div><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by+🌌;See+you+in+the+next+project+🙂;Happy+Coding+😎" /></div>
+  <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by+🌌;See+you+in+the+next+project+🙂;Happy+Coding+😎" /></div>
 </div>
