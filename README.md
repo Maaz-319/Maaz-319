@@ -10,7 +10,7 @@
 
 ## About Me
 
-<div align="center" style="max-width: 800px; padding: 0 20px;">
+<div align="center" style="max-width: 800px; padding: 0 20px; text-align: left;">
 
 ### About Me
 
