@@ -11,14 +11,14 @@
 ## About Me
 
 <div align="center" style="max-width: 800px; padding: 0 20px; text-align: left;">
-
+<div align="left">
 ### About Me
 
 I'm a **Software Developer** and **Computer Science student** passionate about building real-world solutions through code.
 
-🔹 I build **modern web apps** using **Next.js** and **Tailwind CSS**, showcased on my portfolio: [maaz.me](https://maaz.me)  
-🔹 I enjoy creating **Python GUI applications** with **Tkinter** and **Kivy**  
-🔹 I explore **AI/ML and RAG** systems using **LLMs**, **vector databases**, and tools like **LangChain**
+I build **modern web apps** using **Next.js** and **Tailwind CSS**, showcased on my portfolio: [maaz.me](https://maaz.me)  
+I enjoy creating **Python GUI applications** with **Tkinter** and **Kivy**  
+I explore **AI/ML and RAG** systems using **LLMs**, **vector databases**, and tools like **LangChain**
 
 ---
 
@@ -36,6 +36,7 @@ Databases (MySQL, SQLite, Firebase)
 Always learning, always building.  
 Feel free to explore my projects or connect with me!
 
+</div>
 </div>
 
 ---
