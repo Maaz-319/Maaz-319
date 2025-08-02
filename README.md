@@ -27,7 +27,6 @@ I'm a **Software Developer** and **Computer Science student** passionate about b
 * AI-powered apps (Python, LangChain, Hugging Face, RAG)
 * Android Development (Kotlin, ML Kit, TensorFlow Lite)
 * Desktop Apps (Python, C++, OOP Design)
-* Full-Stack Web Apps (Next.js, Tailwind, Firebase)
 * Databases (MySQL, SQLite, Firebase)
 * 2D Game Dev with PyGame
 
