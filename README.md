@@ -16,20 +16,20 @@
 
 I'm a **Software Developer** and **Computer Science student** passionate about building real-world solutions through code.
 
-I build **modern web apps** using **Next.js** and **Tailwind CSS**, showcased on my portfolio: [maaz.me](https://maaz.me)  
-I enjoy creating **Python GUI applications** with **Tkinter** and **Kivy**  
-I explore **AI/ML and RAG** systems using **LLMs**, **vector databases**, and tools like **LangChain**
+* I build **modern web apps** using **Next.js** and **Tailwind CSS**, showcased on my portfolio: [maaz.me](https://maaz.me)  
+* I enjoy creating **Python GUI applications** with **Tkinter** and **Kivy**  
+* I explore **AI/ML and RAG** systems using **LLMs**, **vector databases**, and tools like **LangChain**
 
 ---
 
 ### Other Areas I have Worked On
 
-AI-powered apps (Python, LangChain, Hugging Face, RAG)
-Android Development (Kotlin, ML Kit, TensorFlow Lite)
-Desktop Apps (Python, C++, OOP Design)
-Full-Stack Web Apps (Next.js, Tailwind, Firebase)
-Databases (MySQL, SQLite, Firebase)
-2D Game Dev with PyGame
+* AI-powered apps (Python, LangChain, Hugging Face, RAG)
+* Android Development (Kotlin, ML Kit, TensorFlow Lite)
+* Desktop Apps (Python, C++, OOP Design)
+* Full-Stack Web Apps (Next.js, Tailwind, Firebase)
+* Databases (MySQL, SQLite, Firebase)
+* 2D Game Dev with PyGame
 
 ---
 
