@@ -11,8 +11,8 @@
 ## About Me
 
 <div align="center" style="max-width: 800px; padding: 0 20px; text-align: left;">
+  
 <div align="left">
-### About Me
 
 I'm a **Software Developer** and **Computer Science student** passionate about building real-world solutions through code.
 
@@ -37,6 +37,7 @@ Always learning, always building.
 Feel free to explore my projects or connect with me!
 
 </div>
+
 </div>
 
 ---
