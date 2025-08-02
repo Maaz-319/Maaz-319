@@ -12,21 +12,29 @@
 
 <div align="center" style="max-width: 800px; padding: 0 20px;">
 
-I’m a 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and Computer Science student with experience in building modern 𝐖𝐞𝐛 𝐀𝐩𝐩𝐬, 𝐀𝐈 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐭𝐨𝐨𝐥𝐬, and 𝐃𝐞𝐬𝐤𝐭𝐨𝐩 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬.
+### About Me
 
-I have Developed 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐞, fast, and visually appealing 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 using 𝐍𝐞𝐱𝐭.𝐣𝐬 𝐚𝐧𝐝 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒 which is showcased on my personal portfolio at 𝐦𝐚𝐚𝐳.𝐦𝐞.
-Beyond the web, I enjoy building 𝐏𝐲𝐭𝐡𝐨𝐧 based 𝐆𝐔𝐈 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐮𝐬𝐢𝐧𝐠 𝐓𝐤𝐢𝐧𝐭𝐞𝐫 𝐚𝐧𝐝 𝐊𝐢𝐯𝐲.
+I'm a **Software Developer** and **Computer Science student** passionate about building real-world solutions through code.
 
-I am also actively 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐀𝐈, 𝐌𝐋, and 𝐑𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥 𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐞𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧 (𝐑𝐀𝐆). I have built lightweight prototypes integrating 𝐦𝐨𝐝𝐞𝐫𝐧 𝐋𝐋𝐌𝐬, 𝐯𝐞𝐜𝐭𝐨𝐫 𝐝𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬, 𝐚𝐧𝐝 𝐋𝐚𝐧𝐠𝐂𝐡𝐚𝐢𝐧 𝐥𝐢𝐤𝐞 𝐭𝐨𝐨𝐥𝐜𝐡𝐚𝐢𝐧𝐬.
+🔹 I build **modern web apps** using **Next.js** and **Tailwind CSS**, showcased on my portfolio: [maaz.me](https://maaz.me)  
+🔹 I enjoy creating **Python GUI applications** with **Tkinter** and **Kivy**  
+🔹 I explore **AI/ML and RAG** systems using **LLMs**, **vector databases**, and tools like **LangChain**
 
-Other Things I have Worked on:
-⸻⸻⸻⸻⸻⸻⸻
-- Integrating AI Models in Android Apps
-- Professional C++ App Development using OOP Principles
-- Integrating Databases like MySQL, Firebase and SQLite
-- Mobile App Development Using Kotlin as well as React Native
-- 2D Game Development Using PyGame
-- Data Analysis tools in Python
+---
+
+### Other Areas I have Worked On
+
+- 🧠 AI-powered apps (Python, LangChain, Hugging Face, RAG)
+- 📱 Android Development (Kotlin, ML Kit, TensorFlow Lite)
+- 💻 Desktop Apps (Python, C++, OOP Design)
+- 🌐 Full-Stack Web Apps (Next.js, Tailwind, Firebase)
+- 🗃️ Databases (MySQL, SQLite, Firebase)
+- 🎮 2D Game Dev with PyGame
+
+---
+
+Always learning, always building.  
+Feel free to explore my projects or connect with me!
 
 </div>
 
