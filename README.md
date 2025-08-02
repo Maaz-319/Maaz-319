@@ -30,11 +30,6 @@ I'm a **Software Developer** and **Computer Science student** passionate about b
 * Databases (MySQL, SQLite, Firebase)
 * 2D Game Dev with PyGame
 
----
-
-Always learning, always building.  
-Feel free to explore my projects or connect with me!
-
 </div>
 
 </div>
