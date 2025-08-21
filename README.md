@@ -8,44 +8,62 @@
 
 ---
 
-## ✨ About Me
+## About Me
 
-<div align="center" style="max-width: 800px; padding: 0 20px;">
+<div align="center" style="max-width: 800px; padding: 0 20px; text-align: left;">
+  
+<div align="left">
 
-🎓 CS Student who loves making New Programs, Exploring New Tech, ML, Deep Learning and Cyber Security 😄
+I'm a **Software Developer** and **Computer Science student** passionate about building real-world solutions through code.
+
+* I build **modern web apps** using **Next.js** and **Tailwind CSS**, showcased on my portfolio: [maaz.me](https://maaz.me)  
+* I enjoy creating **Python GUI applications** with **Tkinter** and **Kivy**  
+* I explore **AI/ML and RAG** systems using **LLMs**, **vector databases**, and tools like **LangChain**
+
+---
+
+### Other Areas I have Worked On
+
+* AI-powered apps (Python, LangChain, Hugging Face, RAG)
+* Android Development (Kotlin, ML Kit, TensorFlow Lite)
+* Desktop Apps (Python, C++, OOP Design)
+* Databases (MySQL, SQLite, Firebase)
+* 2D Game Dev with PyGame
+
+</div>
 
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode,react,mysql,sublime,github,pycharm,tailwind&perline=8" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,tensorflow,kotlin,html,css,js,cpp,c,sqlite,jquery,pandas,sklearn,git,androidstudio,vscode,react,mysql,sublime,github,linux,pycharm,tailwind,ubuntu&perline=8" /></a>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <a href="#">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Maaz-319&show_icons=true&theme=vision-friendly-dark">
+<!--   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Maaz-319&show_icons=true&theme=vision-friendly-dark"> -->
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-319&layout=compact&theme=vision-friendly-dark">
 </p>
 
 ---
 
-## 📈 GitHub Activity Graph
+## GitHub Activity Graph
 
 <div align="center">
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaz-319&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/></a>
 </div>
 
 
-## 🏆 Trophies
+## Trophies
 
-<p align="center">
-  <a href="#"><img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=onedark"></a>
+<p align="center" id="trophies">
+  <a href="#trophies"><img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=aura&no-frame=true"></a>
 </p>
 
 ---
@@ -74,5 +92,5 @@
 </div>
 
 <div align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by+🌌;See+you+in+the+next+project+🚀;Happy+Coding+👨‍💻" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Thanks+for+stopping+by+🌌;See+you+in+the+next+project+😎;Happy+Coding+🙂" /></a>
 </div>
