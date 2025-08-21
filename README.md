@@ -48,6 +48,7 @@ I'm a **Software Developer** and **Computer Science student** passionate about b
 <p align="center">
   <a href="#">
 <!--   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Maaz-319&show_icons=true&theme=vision-friendly-dark"> -->
+  <img  alt="maaz-319's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/maaz-319?cardType=level&theme=dark&preferLogin=false" />
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-319&layout=compact&theme=vision-friendly-dark">
 </p>
 
