@@ -55,6 +55,8 @@ I'm a **Software Developer** and **Computer Science student** passionate about b
 
 ## GitHub Activity Graph
 
+![](./profile-3d-contrib/profile-night-green.svg)
+
 <div align="center">
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Maaz-319&theme=tokyo-night&hide_border=true&area=true&border_radius=15"/></a>
 </div>
@@ -85,8 +87,6 @@ I'm a **Software Developer** and **Computer Science student** passionate about b
 <p align="center">
  <!-- <a href="#"><img width="1000" src="github-snake.svg" alt="snake"/></a> -->
 </p>
-
-![](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
