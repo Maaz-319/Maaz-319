@@ -84,10 +84,12 @@ I'm a **Software Developer** and **Computer Science student** passionate about b
 
 <p align="center">
  <!-- <a href="#"><img width="1000" src="github-snake.svg" alt="snake"/></a> -->
-  ![](./profile-3d-contrib/profile-night-green.svg)
 </p>
 
+![](./profile-3d-contrib/profile-night-green.svg)
+
 ---
+
 <div align="center">
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=150&section=footer"/></a>
 </div>
