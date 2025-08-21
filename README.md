@@ -83,7 +83,8 @@ I'm a **Software Developer** and **Computer Science student** passionate about b
 ---
 
 <p align="center">
- <a href="#"><img width="1000" src="github-snake.svg" alt="snake"/></a>
+ <!-- <a href="#"><img width="1000" src="github-snake.svg" alt="snake"/></a> -->
+  ![](./profile-3d-contrib/profile-night-green.svg)
 </p>
 
 ---
