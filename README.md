@@ -62,11 +62,11 @@ I'm a **Software Developer** and **Computer Science student** passionate about b
 </div>
 
 
-## Trophies
+<!-- ## Trophies
 
 <p align="center" id="trophies">
   <a href="#trophies"><img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=aura&no-frame=true"></a>
-</p>
+</p> -->
 
 ---
 
