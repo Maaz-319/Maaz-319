@@ -35,8 +35,6 @@ I'm a **Software Developer** and **Computer Science student** passionate about b
 
 ---
 
----
-
 ### Quick Links to Repo
 
 <p align="center">
