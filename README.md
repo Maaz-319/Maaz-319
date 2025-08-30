@@ -31,8 +31,31 @@ I'm a **Software Developer** and **Computer Science student** passionate about b
 * 2D Game Dev with PyGame
 
 </div>
-
 </div>
+
+---
+
+---
+
+### Quick Links to Repo
+
+<p align="center">
+  <a href="https://github.com/Maaz-319/resume">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maaz-319&repo=resume&theme=tokyonight&border_color=2F80ED&border_radius=15&show_owner=true" />
+  </a>
+  <a href="https://github.com/Maaz-319/Note-it">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maaz-319&repo=Note-it&theme=tokyonight&border_color=2F80ED&border_radius=15&show_owner=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Maaz-319/sms">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maaz-319&repo=sms&theme=tokyonight&border_color=2F80ED&border_radius=15&show_owner=true" />
+  </a>
+  <a href="https://github.com/Maaz-319/rag_using_local_vector_store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Maaz-319&repo=rag_using_local_vector_store&theme=tokyonight&border_color=2F80ED&border_radius=15&show_owner=true" />
+  </a>
+</p>
 
 ---
 
