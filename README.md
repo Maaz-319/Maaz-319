@@ -262,7 +262,7 @@ I focus on building <strong>clean, scalable systems</strong> with an emphasis on
 ---
 
 # Connect with Me
-<div align="center" style="margin-top: 20px; display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
+<span align="center">
 
   <a href="https://maazai.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Website-36725a?style=for-the-badge&logo=webflow&logoColor=white" /> </a>
 
@@ -277,7 +277,7 @@ I focus on building <strong>clean, scalable systems</strong> with an emphasis on
 
   <a href="https://facebook.com/maaz.binaasif" target="_blank"> <img src="https://img.shields.io/badge/Facebook-36725a?style=for-the-badge&logo=facebook&logoColor=white" />
 
-</div>
+</span>
 
 <div align="center">
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=150&section=footer"/></a>
