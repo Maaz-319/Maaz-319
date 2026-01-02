@@ -95,7 +95,7 @@ Visit **[My Portfolio](https://maazai.netlify.app/)** for more projects, experim
 
 # Other Areas I have Worked On
 
-* AI-powered apps (Python, LangChain, Hugging Face, RAG)
+* ## AI-powered apps (Python, LangChain, Hugging Face, RAG)
 <div style="margin-left: 20px;">
 
   1. Interview Agent [GitHub Repo](https://github.com/Maaz-319/langgraph_interview_agent)
@@ -104,7 +104,7 @@ Visit **[My Portfolio](https://maazai.netlify.app/)** for more projects, experim
 
 </div>
 
-* 2D Game Dev with PyGame
+* ## 2D Game Dev with PyGame
 <div style="margin-left: 20px;">
 
   1. Racing Furry Game [GitHub Repo](https://github.com/Maaz-319/Python/tree/main/PyGame/Racing%20Furry)
@@ -113,7 +113,7 @@ Visit **[My Portfolio](https://maazai.netlify.app/)** for more projects, experim
 
 </div>
 
-* Desktop Apps (Python, C/C++, OOP Design)
+* ## Desktop Apps (Python, C/C++, OOP Design)
 <div style="margin-left: 20px;">
 
   1. POS with MySQL based storage and Reporting Capabilities  [GitHub Repo](https://github.com/Maaz-319/Point-of-Sale-System)
