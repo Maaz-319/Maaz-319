@@ -45,120 +45,49 @@ I'm a **Software Developer** building real-world solutions through code. I try t
 
 # Portfolio Projects
 
-<div style="display: flex; flex-direction: column; flex-wrap: wrap; gap: 1px;">
+## Event Booking Platform
 
-  <a href="https://github.com/Maaz-319/event_booking_platform" target="_blank" style="text-decoration: none;">
-    <div style="
-      max-width: 420px;
-      padding: 18px 20px;
-      border-radius: 14px;
-      border: 1px solid rgba(254, 250, 250, 0.5);
-      background: linear-gradient(135deg, #0f172a, #020617);
-      color: #e5e7eb;
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu;
-      transition: all 0.25s ease;
-    ">
-      <h3 style="
-        margin: 0 0 8px 0;
-        font-size: 18px;
-        font-weight: 600;
-        letter-spacing: 0.3px;
-        color: #f8fafc;
-      ">
-        Event Booking Platform <a href="https://deveventsapp.netlify.app/" target="_blank" style="color: #00FFAA; margin-left: 10px; text-decoration: none;">Visit Live ↗️</a>
-      </h3>
-      <p style="
-        margin: 0 0 14px 0;
-        font-size: 14px;
-        line-height: 1.5;
-        color: #cbd5f5;
-      ">
-        A full-stack web application for booking events, built with Next.js, Tailwind CSS, Node.js, and MySQL. Features user authentication, event management, and real-time booking updates.
-      </p>
-      <div style="
-        font-size: 13px;
-        color: #94a3b8;
-      ">
-        <strong>Tech Stack:</strong> <code>Next.js</code> <code>Tailwind CSS</code> <code>MongoDB</code> <code>NextJs Server Actions</code> <code>Clerk Auth</code>
-      </div>
-    </div>
-  </a>
+**GitHub:** [https://github.com/Maaz-319/event_booking_platform](https://github.com/Maaz-319/event_booking_platform)
+**Live Demo:** [https://deveventsapp.netlify.app/](https://deveventsapp.netlify.app/)
 
-  <a href="https://www.linkedin.com/posts/maazbinasif_%F0%9D%90%99%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%B2-%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AD-%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%A2%F0%9D%90%9D-%F0%9D%90%80%F0%9D%90%A9%F0%9D%90%A9-activity-7374465665635762176-hLlU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFDDV0UBkcz9n13uXiiuhQBkLb0QTpwMHcI" target="_blank" style="text-decoration: none;">
-    <div style="
-      max-width: 420px;
-      padding: 18px 20px;
-      border-radius: 14px;
-      border: 1px solid rgba(254, 250, 250, 0.5);
-      background: linear-gradient(135deg, #0f172a, #020617);
-      color: #e5e7eb;
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu;
-      transition: all 0.25s ease;
-    ">
-      <h3 style="
-        margin: 0 0 8px 0;
-        font-size: 18px;
-        font-weight: 600;
-        letter-spacing: 0.3px;
-        color: #f8fafc;
-      ">
-        Zaply Chat - Android based Secure Chat App
-      </h3>
-      <p style="
-        margin: 0 0 14px 0;
-        font-size: 14px;
-        line-height: 1.5;
-        color: #cbd5f5;
-      ">
-        An Android chat application built with Kotlin and Firebase, featuring real-time messaging and end-to-end encryption for secure communication.
-      </p>
-      <div style="
-        font-size: 13px;
-        color: #94a3b8;
-      ">
-        <strong>Tech Stack:</strong> <code>Kotlin</code> <code>Firebase</code> <code>Android Studio</code> <code>End-to-End Encryption</code>
-      </div>
-    </div>
-  </a>
+* Full-stack event booking platform with authentication and real-time updates
+* Clean UI with scalable backend architecture
+* Designed for production-level workflows
 
-  <a href="https://github.com/Maaz-319/Note-it" target="_blank" style="text-decoration: none;">
-    <div style="
-      max-width: 420px;
-      padding: 18px 20px;
-      border-radius: 14px;
-      border: 1px solid rgba(254, 250, 250, 0.5);
-      background: linear-gradient(135deg, #0f172a, #020617);
-      color: #e5e7eb;
-      font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu;
-      transition: all 0.25s ease;
-    ">
-      <h3 style="
-        margin: 0 0 8px 0;
-        font-size: 18px;
-        font-weight: 600;
-        letter-spacing: 0.3px;
-        color: #f8fafc;
-      ">
-        Note it - Android Note Taking App
-      </h3>
-      <p style="
-        margin: 0 0 14px 0;
-        font-size: 14px;
-        line-height: 1.5;
-        color: #cbd5f5;
-      ">
-        An Android note-taking application built with Kotlin, user-friendly interface and jetpack components, Using Room Database for local storage.
-      </p>
-      <div style="
-        font-size: 13px;
-        color: #94a3b8;
-      ">
-        <strong>Tech Stack:</strong> <code>Kotlin</code> <code>Room DB</code> <code>Android Studio</code> <code>Jetpack Components</code>
-      </div>
-    </div>
-  </a>
+**Tech Stack:**
+`Next.js` · `Tailwind CSS` · `MongoDB` · `Next.js Server Actions` · `Clerk Auth`
 
-  <h1 style="margin-top: 20px; background-color: #0f172a; padding: 10px; border-radius: 8px;"> Visit <a href="https://maazai.netlify.app/">My Portfolio</a> for more! </h1>
+---
+
+## Zaply Chat — Secure Android Chat App
+
+**Demo / Showcase:** LinkedIn Project Post
+
+* Real-time Android chat application
+* End-to-end encrypted messaging
+* Focused on privacy and performance
+
+**Tech Stack:**
+`Kotlin` · `Firebase` · `Android Studio` · `End-to-End Encryption`
+
+---
+
+## Note It — Android Note-Taking App
+
+**GitHub:** [https://github.com/Maaz-319/Note-it](https://github.com/Maaz-319/Note-it)
+
+* Lightweight and intuitive note-taking app
+* Uses modern Android architecture components
+* Local persistence with Room database
+
+**Tech Stack:**
+`Kotlin` · `Room Database` · `Android Studio` · `Jetpack Components`
+
+---
+
+## More Work
+
+Visit **[My Portfolio](https://maazai.netlify.app/)** for more projects, experiments, and case studies.
 
 </div>
 
