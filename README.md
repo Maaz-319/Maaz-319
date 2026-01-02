@@ -265,18 +265,18 @@ I focus on building <strong>clean, scalable systems</strong> with an emphasis on
 <div align="center" style="flex-wrap: wrap; display: flex; gap: 10px;">
 
 
-  <a href="https://maazai.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Website-36725a?style=for-the-badge&logo=webflow&logoColor=white" /> </a>
+  <a href="https://maazai.netlify.app/" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Website-36725a?style=for-the-badge&logo=webflow&logoColor=white" /> </a>
 
-  <a href="https://www.linkedin.com/in/maazbinasif" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-36725a?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/maazbinasif" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/LinkedIn-36725a?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-  <a href="https://github.com/Maaz-319" target="_blank"> <img src="https://img.shields.io/badge/GitHub-36725a?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  <a href="https://github.com/Maaz-319" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/GitHub-36725a?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
   <a href="mailto:contactme.maaz.binasif@gmail.com
-  " target="_blank"> <img src="https://img.shields.io/badge/Email-36725a?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  " target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Email-36725a?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
-  <a href="https://instagram.com/maaz.binasif" target="_blank"> <img src="https://img.shields.io/badge/Instagram-36725a?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+  <a href="https://instagram.com/maaz.binasif" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Instagram-36725a?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 
-  <a href="https://facebook.com/maaz.binaasif" target="_blank"> <img src="https://img.shields.io/badge/Facebook-36725a?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://facebook.com/maaz.binaasif" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Facebook-36725a?style=for-the-badge&logo=facebook&logoColor=white" />
 
 </div>
 
