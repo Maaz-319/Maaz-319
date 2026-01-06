@@ -10,7 +10,7 @@
 
 # About Me
 
-I'm a **Software Developer** building real-world solutions through code. I try to find the optimal way to solve the problems. I believe that if you know the problem, you know the Solution.
+I'm a **Software Developer** building real-world solutions through code. I try to find the optimal way to solve the problems. I believe that if you know the problem, you know the Solution. <code>[Visit my portfolio](https://maazai.netlify.app/) to see my work and projects.</code>
 
 # Areas of Expertise
 > Following are the areas of tech in which I have experience in and have built projects:
@@ -253,11 +253,11 @@ I focus on building <strong>clean, scalable systems</strong> with an emphasis on
 </div>
 
 
-## Trophies
+<!-- ## Trophies
 
 <p align="center" id="trophies">
   <a href="#trophies"><img width="800" height="220" src="https://github-profile-trophy.vercel.app/?username=maaz-319&theme=aura&no-frame=true"></a>
-</p>
+</p> -->
 
 ---
 
