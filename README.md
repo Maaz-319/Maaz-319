@@ -10,7 +10,7 @@
 
 # About Me
 
-I'm a **Software Developer** building real-world solutions through code. I try to find the optimal way to solve the problems. I believe that if you know the problem, you know the Solution. <code>[Visit my portfolio](https://maazai.netlify.app/) to see my work and projects.</code>
+I'm a **Software Developer** building real-world solutions through code. I try to find the optimal way to solve the problems. I believe that if you know the problem, you know the Solution. <code>[Visit my portfolio](https://maaz.codes/) to see my work and projects.</code>
 
 # Areas of Expertise
 > Following are the areas of tech in which I have experience in and have built projects:
@@ -87,7 +87,7 @@ I'm a **Software Developer** building real-world solutions through code. I try t
 
 ## More Work
 
-Visit **[My Portfolio](https://maazai.netlify.app/)** for more projects, experiments, and case studies.
+Visit **[My Portfolio](https://maaz.codes/)** for more projects, experiments, and case studies.
 
 </div>
 
@@ -264,7 +264,7 @@ I focus on building <strong>clean, scalable systems</strong> with an emphasis on
 # Connect with Me
 <span align="center" style="display: flex; gap: 10px;">
 
-  <a href="https://maazai.netlify.app/" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Website-36725a?style=for-the-badge&logo=webflow&logoColor=white" /> </a>  <a href="https://www.linkedin.com/in/maazbinasif" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/LinkedIn-36725a?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  <a href="https://github.com/Maaz-319" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/GitHub-36725a?style=for-the-badge&logo=github&logoColor=white" /> </a>  <a href="mailto:contactme.maaz.binasif@gmail.com
+  <a href="https://maaz.codes/" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Website-36725a?style=for-the-badge&logo=webflow&logoColor=white" /> </a>  <a href="https://www.linkedin.com/in/maazbinasif" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/LinkedIn-36725a?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>  <a href="https://github.com/Maaz-319" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/GitHub-36725a?style=for-the-badge&logo=github&logoColor=white" /> </a>  <a href="mailto:contactme.maaz.binasif@gmail.com
   " target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Email-36725a?style=for-the-badge&logo=gmail&logoColor=white" /> </a>  <a href="https://instagram.com/maaz.binasif" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Instagram-36725a?style=for-the-badge&logo=instagram&logoColor=white" /> </a>  <a href="https://facebook.com/maaz.binaasif" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Facebook-36725a?style=for-the-badge&logo=facebook&logoColor=white" />
 
 </span>
