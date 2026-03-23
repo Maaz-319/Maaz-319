@@ -45,6 +45,20 @@ I'm a **Software Developer** building real-world solutions through code. I try t
 
 # Portfolio Projects
 
+## Personal Knowledge Graph Builder (PKGB)
+
+**GitHub:** [Maaz-319/knowledge_graph/tree/feature/generic_code_extractor](https://github.com/Maaz-319/knowledge_graph/tree/feature/generic_code_extractor)
+**Live Demo:** [On Youtube](https://www.youtube.com/watch?v=pAodYXbRP6Y)
+
+* AI-powered tool to extract and visualize code knowledge graphs from GitHub repos
+* Supports Querying code structure, dependencies, and relationships
+* Asks Questions about codebases
+
+**Tech Stack:**
+`FAISS` · `Hugging Face` · `Python` · `ChromaDB`
+
+---
+
 ## Event Booking Platform
 
 **GitHub:** [https://github.com/Maaz-319/event_booking_platform](https://github.com/Maaz-319/event_booking_platform)
@@ -98,9 +112,8 @@ Visit **[My Portfolio](https://maaz.codes/)** for more projects, experiments, an
 * ## AI-powered apps (Python, LangChain, Hugging Face, RAG)
 <div style="margin-left: 20px;">
 
-  1. Interview Agent [GitHub Repo](https://github.com/Maaz-319/langgraph_interview_agent)
-  2. RAG based Chatbot using Gemini LLM and Chroma DB [GitHub Repo](https://github.com/Maaz-319/rag_using_local_vector_store)
-  3. AI powered suggestions in a blogging platform [GitHub Repo](https://github.com/Maaz-319/blog_full_stack)
+  1. RAG based Chatbot using Gemini LLM and Chroma DB [GitHub Repo](https://github.com/Maaz-319/rag_using_local_vector_store)
+  2. AI powered suggestions in a blogging platform [Live Demo Linkedin](https://www.linkedin.com/posts/maazbinasif_%F0%9D%90%82%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%9A-%F0%9D%90%9F%F0%9D%90%AE%F0%9D%90%A5%F0%9D%90%A5-%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%9C%F0%9D%90%A4-%F0%9D%90%9B%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%A0%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-activity-7361468896903667713-V55E?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFDDV0UBkcz9n13uXiiuhQBkLb0QTpwMHcI)
 
 </div>
 
