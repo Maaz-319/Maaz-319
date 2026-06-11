@@ -17,11 +17,13 @@ I'm a **Software Developer** building real-world solutions through code. I try t
 
 <div style="margin-left: 20px;">
 
-## 1. Full Stack Web Development
+## 1. Full Stack Application Development
 * Front End (Next.js UI, TypeScript, Tailwind CSS, Shadcn UI Components)
 * Back End (Node.js, Flask, FastAPI, Next.js API Routes, NextJs Server Actions)
 * Databases (MySQL, SQLite, Firebase, MongoDB, Firestore)
 * Authentication (NextAuth.js, JWT, OAuth)
+* AI Integration (Chatbots, Workflows Automation)
+* CLoud Services (Asure, AWS, Google Cloud)
 
 ## 2. Machine Learning & AI
 * Data Analysis & Visualization (Pandas, NumPy, Matplotlib, Seaborn)
@@ -44,6 +46,20 @@ I'm a **Software Developer** building real-world solutions through code. I try t
 ---
 
 # Portfolio Projects
+
+## TRACE - Custom Version Control System
+
+**TRACE:** [https://github.com/Maaz-319/trace](https://github.com/Maaz-319/trace)
+**Extension:** [https://github.com/Maaz-319/trace-for-vscode](https://github.com/Maaz-319/trace-for-vscode)
+
+* commit, branch, merge, log and more
+* With a simple CLI interface
+* Integrated into VS Code for seamless version control within the editor.
+
+**Tech Stack:**
+`Python` · `Layers Architecture` · `FastAPI` · `Typescript` · `Git Concepts`
+
+---
 
 ## Personal Knowledge Graph Builder (PKGB)
 
@@ -83,19 +99,6 @@ I'm a **Software Developer** building real-world solutions through code. I try t
 
 **Tech Stack:**
 `Kotlin` · `Firebase` · `Android Studio` · `End-to-End Encryption`
-
----
-
-## Note It — Android Note-Taking App
-
-**GitHub:** [https://github.com/Maaz-319/Note-it](https://github.com/Maaz-319/Note-it)
-
-* Lightweight and intuitive note-taking app
-* Uses modern Android architecture components
-* Local persistence with Room database
-
-**Tech Stack:**
-`Kotlin` · `Room Database` · `Android Studio` · `Jetpack Components`
 
 ---
 
