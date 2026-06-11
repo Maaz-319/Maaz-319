@@ -51,6 +51,7 @@ I'm a **Software Developer** building real-world solutions through code. I try t
 
 **TRACE:** [https://github.com/Maaz-319/trace](https://github.com/Maaz-319/trace)
 **Extension:** [https://github.com/Maaz-319/trace-for-vscode](https://github.com/Maaz-319/trace-for-vscode)
+**Youtube Video:** [https://www.youtube.com/watch?v=DLT-3zIX1a0&lc=UgwzI9_gWgCF45zNoHh4AaABAg](https://www.youtube.com/watch?v=DLT-3zIX1a0&lc=UgwzI9_gWgCF45zNoHh4AaABAg)
 
 * commit, branch, merge, log and more
 * With a simple CLI interface
