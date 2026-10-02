@@ -47,6 +47,31 @@ I'm a **Software Developer** building real-world solutions through code. I try t
 
 # Portfolio Projects
 
+## Url Shortener | Clean Architecture | PostgreSQL | Redis | RabbitMQ | Grafan | OpenTelementry
+
+**Github:** [https://github.com/maaz-319/url_shortner](https://github.com/maaz-319/url_shortner)
+
+
+**Youtube Video:** [https://www.youtube.com/watch?v=IPtTJZP_wLk](https://www.youtube.com/watch?v=IPtTJZP_wLk)
+
+A FastAPI-based URL shortener service with deterministic short codes, custom aliases, analytics, rate limiting, caching, and idempotent link creation. This project taught me how real production systems are designed: layered architecture, caching strategy, async processing, security, and the storage model behind production systems.
+
+**Tech Stack:**
+`PostgreSQL` · `Redis` · `RabbitMQ
+` · `Docker Compose` · `Celery` · `OpenTelemetry`
+
+## DepWatch | An Agentic Security Analyst for Node Projects
+
+**DepWatch:** [https://github.com/maaz-319/depwatch-backend](https://github.com/maaz-319/depwatch-backend)
+
+
+**Youtube Video:** [https://www.youtube.com/watch?v=XFmbq82H1P0&lc=UgzpDLn4Q7PUT4sCq054AaABAg](https://www.youtube.com/watch?v=XFmbq82H1P0&lc=UgzpDLn4Q7PUT4sCq054AaABAg)
+
+DepWatch is an AI-powered dependency security assessment platform. Users upload an npm package-lock.json, and the backend automatically scans every direct dependency against the OSV vulnerability database, classifies each finding with an AI analyst, pauses for human review on critical or low-confidence items, generates a structured remediation plan grounded in a RAG knowledge base, and produces a downloadable Markdown security report, all at the edge via Cloudflare Workers.
+
+**Tech Stack:**
+`Cloudflare Agent SDK` · `Cloudflare Workers` · `OSV Vulnerability Databas` · `Multi-Agent Systems` · `RAG`
+
 ## TRACE - Custom Version Control System
 
 **TRACE:** [https://github.com/Maaz-319/trace](https://github.com/Maaz-319/trace)
