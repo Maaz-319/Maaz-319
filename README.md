@@ -46,6 +46,19 @@ I'm a **Software Developer** building real-world solutions through code. I try t
 ---
 
 # Portfolio Projects
+## Discord-Like Chat App | NestJs - Socker.IO | Huddle
+
+**Github:** [https://github.com/maaz-319/huddle](https://github.com/maaz-319/huddle)
+
+**Youtube Video:** [https://www.youtube.com/watch?v=hW708sz6Zpk](https://www.youtube.com/watch?v=hW708sz6Zpk)
+
+Huddle is a real-time community chat app inspired by Discord. People create servers, organise conversations into channels, chat, and see who is online. The project focuses on two hard parts: live updates from server to browser, and permissions that combine server roles with channel rules.
+
+**Tech Stack:**
+`NestJs` · `SocketIO` · `Postgres
+` · `Redis` · `3 roles RBAC Architecture` · `React Vite`
+
+---
 
 ## Url Shortener | Clean Architecture | PostgreSQL | Redis | RabbitMQ | Grafan | OpenTelementry
 
@@ -60,6 +73,8 @@ A FastAPI-based URL shortener service with deterministic short codes, custom ali
 `PostgreSQL` · `Redis` · `RabbitMQ
 ` · `Docker Compose` · `Celery` · `OpenTelemetry`
 
+---
+
 ## DepWatch | An Agentic Security Analyst for Node Projects
 
 **DepWatch:** [https://github.com/maaz-319/depwatch-backend](https://github.com/maaz-319/depwatch-backend)
@@ -71,6 +86,8 @@ DepWatch is an AI-powered dependency security assessment platform. Users upload 
 
 **Tech Stack:**
 `Cloudflare Agent SDK` · `Cloudflare Workers` · `OSV Vulnerability Databas` · `Multi-Agent Systems` · `RAG`
+
+---
 
 ## TRACE - Custom Version Control System
 
@@ -86,6 +103,7 @@ DepWatch is an AI-powered dependency security assessment platform. Users upload 
 `Python` · `Layers Architecture` · `FastAPI` · `Typescript` · `Git Concepts`
 
 ---
+---
 
 ## Personal Knowledge Graph Builder (PKGB)
 
@@ -100,6 +118,7 @@ DepWatch is an AI-powered dependency security assessment platform. Users upload 
 `FAISS` · `Hugging Face` · `Python` · `ChromaDB`
 
 ---
+--
 
 ## Event Booking Platform
 
